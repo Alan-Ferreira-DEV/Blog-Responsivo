@@ -1,4 +1,4 @@
-# RID-120894-Blog-Responsivo -DNC
+# RID-181105-Blog-Responsivo-DNC
 
 Este projeto consiste em um Blog responsivo, aprendido no modulo 2 do curso- frontend DNC 
 
