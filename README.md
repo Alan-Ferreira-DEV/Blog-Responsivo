@@ -1,13 +1,7 @@
-# RID-187669-Blog-Responsivo
+# RID-120894-Blog-Responsivo -DNC
 
-Este projeto consiste em um Blog responsivo, afim de desenvolver o que foi aprendido no modulo 2 do curso.
+Este projeto consiste em um Blog responsivo, aprendido no modulo 2 do curso- frontend DNC 
 
-O desenvolvimento das aptidões sobre a responsividade é fundamental para trabalhar em projetos que demandam
-de detalhes e uma melhor interatividade para a página. Assim apresentando uma boa dinâmica para quem navega
-na página.
-
-
-O Bolg está no online!!!!
 
 Clique no link abaixo:
 
